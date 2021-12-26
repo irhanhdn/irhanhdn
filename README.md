@@ -1,6 +1,6 @@
 # Halo semua! 👋
 
-Perkenalkan nama saya **Irhan Hisyam Dwi Nugroho**.\
+Perkenalkan nama saya **Irhan Hisyam Dwi Nugroho**.
 
 Saya seorang **Content Writer** di 
 1. [irhanhisyam.com](https://www.irhanhisyam.com/)
