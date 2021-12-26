@@ -12,6 +12,12 @@ Saat ini saya sedang menempuh pendidikan di universitas Pendidikan Ganesha di Pr
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/irhanhisyamdwinugroho?originalSubdomain=id/)ku ya.
 
 
+<p align="left">
+<a href="https://github.com/irhanhdn">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **irhanhdn/irhanhdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
