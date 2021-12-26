@@ -3,9 +3,9 @@
 Perkenalkan nama saya **Irhan Hisyam Dwi Nugroho**.\
 
 Saya seorang **Content Writer** di 
-1. [irhanhisyam.com](https://www.irhanhisyam.com/).
-2. [belajarinformatika.id](https://belajarinformatika.id).
-3. [sekolahinformatika.my.id](https://sekolahinformatika.my.id).
+1. [irhanhisyam.com](https://www.irhanhisyam.com/)
+2. [belajarinformatika.id](https://belajarinformatika.id)
+3. [sekolahinformatika.my.id](https://sekolahinformatika.my.id)
 
 Saat ini saya sedang menempuh pendidikan di universitas Pendidikan Ganesha di Program Studi Sistem Informasi
 
